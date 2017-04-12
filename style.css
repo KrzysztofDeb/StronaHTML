@@ -1,0 +1,23 @@
+body{
+	background-color: #000000;
+}
+
+.jumbotron {
+	text-align: center;
+}
+.container{
+	background-color: #303030;
+	color: #ffffff;
+}
+
+table {
+	border: 2px solid red;
+	
+}
+
+td {
+	border: 2px solid red;
+	padding: 10px 10px;
+	text-align: center;
+}
+
